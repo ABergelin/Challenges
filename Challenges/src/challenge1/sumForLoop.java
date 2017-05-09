@@ -3,8 +3,8 @@ package challenge1;
 public class sumForLoop {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
+		// Running a for loop to get the total of a list of numbers
 		int Numbers[] = {1,2,3,4,5,6,7,8,9,10};
 		int total = 0;
 		
